@@ -7,7 +7,7 @@ import (
 
 	"github.com/MonielleB/imersao/codepix-go/application/grpc/pb"
 	"github.com/MonielleB/imersao/codepix-go/application/usecase"
-	"github.com/MonielleB/imersao/codepix-go/infrastructure/repository"
+	"github.com/MonielleB/imersao/codepix-go/infraestructure/repository"
 	"github.com/jinzhu/gorm"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
