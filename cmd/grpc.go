@@ -14,7 +14,7 @@ package cmd
 
 import (
 	"github.com/MonielleB/imersao/codepix-go/application/grpc"
-	"github.com/MonielleB/imersao/codepix-go/infrastructure/db"
+	"github.com/MonielleB/imersao/codepix-go/infraestructure/db"
 	"os"
 
 	"github.com/spf13/cobra"
