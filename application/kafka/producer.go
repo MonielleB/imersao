@@ -2,7 +2,7 @@ package kafka
 
 import (
 	"fmt"
-	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
+	ckafka "github.com/confluentinc/confluent-kafka-go"
 	"os"
 )
 
